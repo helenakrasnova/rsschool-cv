@@ -62,3 +62,5 @@ Long-term training which covered several frontEnd areas:
    * CSS
    * JS
    * React
+## Interests:
+Reading, music, photos, English, travelling, shaping, sports, and design drawing.
